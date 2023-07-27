@@ -179,11 +179,11 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made by <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+  footer: `Customized by <a 
+      class="text-primary" href="#"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >Tonmoy</a> with ❤️`,
 };
 
 export default config;
