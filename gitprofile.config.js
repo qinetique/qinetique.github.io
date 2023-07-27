@@ -50,18 +50,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Tonmoy Interactive',
+      position: 'CTO',
+      from: 'April 2016',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: '',
+      position: '',
+      from: '',
+      to: '',
+      companyLink: '',
     },
   ],
   /* certifications: [
@@ -74,40 +74,40 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Lovely Professional University',
+      degree: 'B.TECH(Aerospace Engineering)',
+      from: '2019',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'UNIVERSITY OF THE PEOPLE',
+      degree: 'B.Sc(Computer Science)',
+      from: '2021',
+      to: '2024',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Socias',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: '',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        '',
+      imageUrl: '',
+      link: '',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -168,7 +168,7 @@ const config = {
 
     // Custom theme
     customTheme: {
-      primary: '#fc055b',
+      primary: '#754ffe',
       secondary: '#219aaf',
       accent: '#e8d03a',
       neutral: '#2A2730',
@@ -179,7 +179,7 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
+  footer: `Made by <a 
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
