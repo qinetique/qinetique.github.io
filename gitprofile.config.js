@@ -56,13 +56,7 @@ const config = {
       to: 'Present',
       companyLink: '',
     },
-    {
-      company: '',
-      position: '',
-      from: '',
-      to: '',
-      companyLink: '',
-    },
+    
   ],
   /* certifications: [
     {
