@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      '#', // Empty fileUrl will hide the `Download Resume` button.
+      'https://dev_tonmoy.hackerresume.io/2958c520-7a94-4bc1-885d-789603569ca6', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C++',
@@ -58,14 +58,14 @@ const config = {
     },
     
   ],
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Problem Solving (Basic) Certifcate',
+      body: 'Hackerrank',
+      year: 'July 2023',
+      link: 'https://www.hackerrank.com/certificates/13705a5d32ed'
     },
-  ], */
+  ],
   education: [
     {
       institution: 'Lovely Professional University',
